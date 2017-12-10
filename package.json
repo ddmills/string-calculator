@@ -1,10 +1,12 @@
 {
   "name": "string-calculator",
   "scripts": {
+    "start": "babel-node ./src/main.js",
     "test": "mocha"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.34",
+    "@babel/node": "^7.0.0-beta.34",
     "@babel/preset-env": "^7.0.0-beta.34",
     "@babel/register": "^7.0.0-beta.34",
     "chai": "^4.1.2",
