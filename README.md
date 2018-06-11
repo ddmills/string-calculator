@@ -22,6 +22,8 @@ Use `npm run start` to run the application.
 
 Use `npm run test` to run the tests.
 
+Refer to the [Mocha](https://mochajs.org/#getting-started) and [Chai](http://www.chaijs.com/api/bdd/) documentation for guidance on tests.
+
 ### Steps
 
 1. The `StringCalculator` class's `add()` method should return `0` when called without any arguments.
