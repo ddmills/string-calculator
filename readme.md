@@ -12,6 +12,16 @@ In order to achieve this goal we will use the principles of TDD to incrementally
 2. Extend the application to make the feature pass.
 3. Refactor the code into a more structured and extensible version.
 
+### Setup
+
+Use Node 8.
+
+Run `npm i` to install all dependencies.
+
+Use `npm run start` to run the application.
+
+Use `npm run test` to run the tests.
+
 ### Steps
 
 1. The `StringCalculator` class's `add()` method should return `0` when called without any arguments.
