@@ -26,4 +26,4 @@ StringCalculator.add('7', '4') --> 11
 StringCalculator.add('1', '3', 5', '2') --> 11
 ```
 
-4. Strings should be parsed by `IntegerParser.parse(String number)`
+5. Strings should be parsed by `IntegerParser.parse(String number)`
